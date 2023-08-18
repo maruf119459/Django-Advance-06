@@ -1,0 +1,5 @@
+https://drive.google.com/file/d/1BEa-lgp2awxQ_m8DrV801DrKS8dv9aoZ/view?usp=drive_link
+
+
+How to enable CORS headers in your Django Project?: 
+https://www.geeksforgeeks.org/how-to-enable-cors-headers-in-your-django-project/
